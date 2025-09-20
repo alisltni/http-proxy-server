@@ -36,4 +36,4 @@ It is the final project of **Data Communication Networks** course.
 2. Run the server:
 
 ```bash
-python proxy.py
+python proxy_server.py
